@@ -1,0 +1,326 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E512EB9D965441838B22457A /* E512EB9D965441838B22457A */ = {isa = PBXBuildFile; fileRef = 1F3A4D3ED50E4B18BDCA4124; };
+		E6F19971208A4C1B8A9B344E /* E6F19971208A4C1B8A9B344E */ = {isa = PBXBuildFile; fileRef = A0630DBB106A4E2A8A93EF34; };
+		E6AEDB8926CF4A04BDA0D50C /* E6AEDB8926CF4A04BDA0D50C */ = {isa = PBXBuildFile; fileRef = 302A51EC486C49E78136D30E; };
+		14E4FA29D6214AAD829E059D /* 14E4FA29D6214AAD829E059D */ = {isa = PBXBuildFile; fileRef = 5FEEBBBF45FE49FF9007F570; };
+		E856185317974E63A108DD0C /* E856185317974E63A108DD0C */ = {isa = PBXBuildFile; fileRef = 0ED34741BDB444E3ACD77B13; };
+		BA57393D34E2481A816037B9 /* BA57393D34E2481A816037B9 */ = {isa = PBXBuildFile; fileRef = C72B92EE86E343B2B9EBF62C; };
+		336C1A7E5B494F14BD9A1936 /* 336C1A7E5B494F14BD9A1936 */ = {isa = PBXBuildFile; fileRef = F8BABD819BD143B4B08196BC; };
+		AD331BBD63AC4F58B3114940 /* AD331BBD63AC4F58B3114940 */ = {isa = PBXBuildFile; fileRef = 2D14D59089504D48B1894B90; };
+		5C438EA0DF9C4C1F923ECB23 /* 5C438EA0DF9C4C1F923ECB23 */ = {isa = PBXBuildFile; fileRef = 632D5531E2934E609E5C3A3E; };
+		8EDD2F415DC644AE959D1CE9 /* 8EDD2F415DC644AE959D1CE9 */ = {isa = PBXBuildFile; fileRef = F81CA2F456AE47BB90DCF68C; };
+		93EE3D848DB24EC0B356FC01 /* 93EE3D848DB24EC0B356FC01 */ = {isa = PBXBuildFile; fileRef = 34DA8EB95EC644D8A16BA117; };
+		CC65872185E74C9A8F851C9F /* CC65872185E74C9A8F851C9F */ = {isa = PBXBuildFile; fileRef = BD95238277B849BBA98D1872; };
+		56E6CC74D7F044EC8C17C97E /* 56E6CC74D7F044EC8C17C97E */ = {isa = PBXBuildFile; fileRef = 7711F8CB23494F90AE36427B; };
+		E1C941A9B3194BA29FB78588 /* E1C941A9B3194BA29FB78588 */ = {isa = PBXBuildFile; fileRef = 398D21BF7D1E46E192449046; };
+		54B6A6CCFFA04F5C8FD59553 /* 54B6A6CCFFA04F5C8FD59553 */ = {isa = PBXBuildFile; fileRef = 1E6EBFB2E02B4945AA4E7867; };
+		828EAD21168E4C708D774CFE /* 828EAD21168E4C708D774CFE */ = {isa = PBXBuildFile; fileRef = B0487AAB7BEB4A17A9C6F8EE; };
+		6215B7531FB84683A0845C33 /* 6215B7531FB84683A0845C33 */ = {isa = PBXBuildFile; fileRef = 3754888588B046FFBA377A7B; };
+		CD22EBF1C2784818A00299AC /* CD22EBF1C2784818A00299AC */ = {isa = PBXBuildFile; fileRef = 86811D895AD64FEAA9CA8F22; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1E1AF017856244C7A3791CA7 /* SuperCorners.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperCorners.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B33ED0217D1B416BAEA29AA2 /* SuperCorners.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "SuperCorners.entitlements"; sourceTree = "<group>"; };
+		1F3A4D3ED50E4B18BDCA4124 /* SuperCornersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SuperCornersApp.swift"; sourceTree = "<group>"; };
+		A0630DBB106A4E2A8A93EF34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AppDelegate.swift"; sourceTree = "<group>"; };
+		302A51EC486C49E78136D30E /* Trigger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Trigger.swift"; sourceTree = "<group>"; };
+		5FEEBBBF45FE49FF9007F570 /* PreferencesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PreferencesManager.swift"; sourceTree = "<group>"; };
+		0ED34741BDB444E3ACD77B13 /* Action.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Action.swift"; sourceTree = "<group>"; };
+		C72B92EE86E343B2B9EBF62C /* ActionExecutor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ActionExecutor.swift"; sourceTree = "<group>"; };
+		F8BABD819BD143B4B08196BC /* OCRView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OCRView.swift"; sourceTree = "<group>"; };
+		2D14D59089504D48B1894B90 /* FloatingWindowManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FloatingWindowManager.swift"; sourceTree = "<group>"; };
+		632D5531E2934E609E5C3A3E /* FloatingCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FloatingCalculatorView.swift"; sourceTree = "<group>"; };
+		F81CA2F456AE47BB90DCF68C /* FloatingNotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FloatingNotesView.swift"; sourceTree = "<group>"; };
+		F259691F6CE64FB5BE1FC94F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info.plist"; sourceTree = "<group>"; };
+		34DA8EB95EC644D8A16BA117 /* TriggerConfigView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TriggerConfigView.swift"; sourceTree = "<group>"; };
+		BD95238277B849BBA98D1872 /* HotkeyRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HotkeyRecorder.swift"; sourceTree = "<group>"; };
+		7711F8CB23494F90AE36427B /* IgnoredAppsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IgnoredAppsView.swift"; sourceTree = "<group>"; };
+		398D21BF7D1E46E192449046 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SettingsView.swift"; sourceTree = "<group>"; };
+		1E6EBFB2E02B4945AA4E7867 /* GeneralSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GeneralSettingsView.swift"; sourceTree = "<group>"; };
+		B0487AAB7BEB4A17A9C6F8EE /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AboutView.swift"; sourceTree = "<group>"; };
+		3754888588B046FFBA377A7B /* PermissionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PermissionsView.swift"; sourceTree = "<group>"; };
+		86811D895AD64FEAA9CA8F22 /* MouseMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MouseMonitor.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A014F58AED2142EE81B095F5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1E1AF017856244C7A3791CA7 /* SuperCorners.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5072B67549594992BCE814E5 /* SuperCorners */ = {
+			isa = PBXGroup;
+			children = (
+				FA608F1413AA43BE8E49B977,
+				1B7DCCED98EE4B5CBC6DA14F,
+				EB714C16FD304D10866CB6A2,
+				9756E92B69134870BCF69FE1,
+				5452AF7282BF48ECBD34FE4F,
+				46991DE2D48741769681E9D2,
+				B33ED0217D1B416BAEA29AA2,
+				1F3A4D3ED50E4B18BDCA4124,
+				A0630DBB106A4E2A8A93EF34,
+				A014F58AED2142EE81B095F5,
+			);
+			sourceTree = "<group>";
+		};
+		FA608F1413AA43BE8E49B977 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "ViewModel";
+			sourceTree = "<group>";
+		};
+		1B7DCCED98EE4B5CBC6DA14F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				302A51EC486C49E78136D30E,
+				5FEEBBBF45FE49FF9007F570,
+				0ED34741BDB444E3ACD77B13,
+			);
+			path = "Model";
+			sourceTree = "<group>";
+		};
+		EB714C16FD304D10866CB6A2 /* Actions */ = {
+			isa = PBXGroup;
+			children = (
+				B7122AFD97F042578595A9FF,
+				C72B92EE86E343B2B9EBF62C,
+			);
+			path = "Actions";
+			sourceTree = "<group>";
+		};
+		9756E92B69134870BCF69FE1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F259691F6CE64FB5BE1FC94F,
+			);
+			path = "Resources";
+			sourceTree = "<group>";
+		};
+		5452AF7282BF48ECBD34FE4F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E7A14A64FDD64FE3BEFFF23D,
+				157F41A40F884FEC94184208,
+			);
+			path = "View";
+			sourceTree = "<group>";
+		};
+		46991DE2D48741769681E9D2 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				86811D895AD64FEAA9CA8F22,
+			);
+			path = "Utilities";
+			sourceTree = "<group>";
+		};
+		B7122AFD97F042578595A9FF /* FloatingWindows */ = {
+			isa = PBXGroup;
+			children = (
+				F8BABD819BD143B4B08196BC,
+				2D14D59089504D48B1894B90,
+				632D5531E2934E609E5C3A3E,
+				F81CA2F456AE47BB90DCF68C,
+			);
+			path = "FloatingWindows";
+			sourceTree = "<group>";
+		};
+		E7A14A64FDD64FE3BEFFF23D /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				34DA8EB95EC644D8A16BA117,
+				BD95238277B849BBA98D1872,
+				7711F8CB23494F90AE36427B,
+				398D21BF7D1E46E192449046,
+				1E6EBFB2E02B4945AA4E7867,
+				B0487AAB7BEB4A17A9C6F8EE,
+			);
+			path = "Settings";
+			sourceTree = "<group>";
+		};
+		157F41A40F884FEC94184208 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3754888588B046FFBA377A7B,
+			);
+			path = "Utilities";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		74D91F8CFAB84DFA9C3456C0 /* SuperCorners */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DF6933A880D64680B8C6C853 /* Build configuration list for PBXNativeTarget "SuperCorners" */;
+			buildPhases = (
+				6925C8134D954B45877E41EC /* Sources */,
+				58E19DA9B71941978B6FC55A /* Frameworks */,
+				31371654A0094838B0D2A1CF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SuperCorners;
+			productName = {project_name};
+			productReference = 1E1AF017856244C7A3791CA7 /* SuperCorners.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1199AEF4A49D42369FBE5911 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 0C97768A0C6944B5BC721C0E /* Build configuration list for PBXProject "SuperCorners" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5072B67549594992BCE814E5;
+			productRefGroup = A014F58AED2142EE81B095F5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				74D91F8CFAB84DFA9C3456C0 /* SuperCorners */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6925C8134D954B45877E41EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E512EB9D965441838B22457A /* E512EB9D965441838B22457A */,
+				E6F19971208A4C1B8A9B344E /* E6F19971208A4C1B8A9B344E */,
+				E6AEDB8926CF4A04BDA0D50C /* E6AEDB8926CF4A04BDA0D50C */,
+				14E4FA29D6214AAD829E059D /* 14E4FA29D6214AAD829E059D */,
+				E856185317974E63A108DD0C /* E856185317974E63A108DD0C */,
+				BA57393D34E2481A816037B9 /* BA57393D34E2481A816037B9 */,
+				336C1A7E5B494F14BD9A1936 /* 336C1A7E5B494F14BD9A1936 */,
+				AD331BBD63AC4F58B3114940 /* AD331BBD63AC4F58B3114940 */,
+				5C438EA0DF9C4C1F923ECB23 /* 5C438EA0DF9C4C1F923ECB23 */,
+				8EDD2F415DC644AE959D1CE9 /* 8EDD2F415DC644AE959D1CE9 */,
+				93EE3D848DB24EC0B356FC01 /* 93EE3D848DB24EC0B356FC01 */,
+				CC65872185E74C9A8F851C9F /* CC65872185E74C9A8F851C9F */,
+				56E6CC74D7F044EC8C17C97E /* 56E6CC74D7F044EC8C17C97E */,
+				E1C941A9B3194BA29FB78588 /* E1C941A9B3194BA29FB78588 */,
+				54B6A6CCFFA04F5C8FD59553 /* 54B6A6CCFFA04F5C8FD59553 */,
+				828EAD21168E4C708D774CFE /* 828EAD21168E4C708D774CFE */,
+				6215B7531FB84683A0845C33 /* 6215B7531FB84683A0845C33 */,
+				CD22EBF1C2784818A00299AC /* CD22EBF1C2784818A00299AC */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXResourcesBuildPhase section */
+		31371654A0094838B0D2A1CF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		58E19DA9B71941978B6FC55A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FBDC898AF1614C88800F3677 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SuperCorners/SuperCorners.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = SuperCorners/Resources/Info.plist;
+				INFOPLIST_KEY_LSUIElement = YES;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.supercorners.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8E3B7E465C04424CA4986777 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SuperCorners/SuperCorners.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = SuperCorners/Resources/Info.plist;
+				INFOPLIST_KEY_LSUIElement = YES;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.supercorners.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		BAC5D5D9D25F4580AB50C3DF /* Debug */ = { isa = XCBuildConfiguration; buildSettings = { }; name = Debug; };
+		E41E2C2700284ACCB9768D3A /* Release */ = { isa = XCBuildConfiguration; buildSettings = { }; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DF6933A880D64680B8C6C853 /* Build configuration list for PBXNativeTarget "SuperCorners" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FBDC898AF1614C88800F3677 /* Debug */,
+				8E3B7E465C04424CA4986777 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0C97768A0C6944B5BC721C0E /* Build configuration list for PBXProject "SuperCorners" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAC5D5D9D25F4580AB50C3DF /* Debug */,
+				E41E2C2700284ACCB9768D3A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1199AEF4A49D42369FBE5911;
+}
